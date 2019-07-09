@@ -1,4 +1,5 @@
-# k8s-prometheus-file-exporter - A Prometheus exporter for K8s that serves metrics from a plain text file
+# k8s-prometheus-file-exporter
+A Prometheus exporter for K8s that serves metrics from a plain text file
 
 ## Usage
 
